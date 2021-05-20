@@ -17,8 +17,8 @@ Additionally, to make things "easier", Docker and Kubernetes were implemented. I
 In order to run and test this repo locally, it is necessary to have docker and kubernetes running, plus having [skaffold](https://skaffold.dev/) installed.
 
 Once you are ready, run the following command inside the root directory:
-```bash
-    $ skaffold dev
+```shell
+$ skaffold dev
 ```
 
 Skaffold simplifies our development process.
